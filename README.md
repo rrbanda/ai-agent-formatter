@@ -1,6 +1,4 @@
-Here’s an **updated `README.md`** that includes instructions for **running, testing, and using the AI-Agent Formatter**. This version also incorporates **Solution 1** (`PYTHONPATH=$(pwd) pytest`) to ensure smooth test execution.
 
----
 
 # **AI-Agent Formatter**
 AI-Agent Formatter is a **post-processing component** that takes the output from an AI agent and formats it into a **structured, UI-friendly format**. It supports:
